@@ -5,6 +5,9 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 É importante que visitemos sempre este repositório, pois,  as fichas de exercícios serão sempre depositadas aqui.
 
+**ATENÇÃO ESTUDANTES DE CIVIL PÓS-LABORAL!**
+
+**Façam um favor de depositar os vosso TPC-2 ( Aquele que o Professor enviou no vosso email) até Sabado as 12:00 hrs. Aquele que nao enviar terá problemas porque esse TPC faz parte das avaliações.**
 
 
 Bons estudos!
