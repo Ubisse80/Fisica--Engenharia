@@ -7,7 +7,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 **ATENÇÃO ESTUDANTES DA ELECTRICA LABORAL!**
 
-**A vossa pauta ja esta no Siga !**
+**A vossa pauta ja esta Aqui anexa com o nomes de _Física II -  Engenharia Eléctrica -Notas_exame_ !**
 
 
 Bons estudos!
