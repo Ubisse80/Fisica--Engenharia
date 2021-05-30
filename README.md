@@ -5,11 +5,5 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 É importante que visitemos sempre este repositório, pois,  as fichas de exercícios serão sempre depositadas aqui.
 
-**ATENÇÃO ESTUDANTES DA ELECTRICA LABORAL E CIVIL P/LABORAL!**
-
-**A vossa pauta ja esta Aqui anexa com o nomes de _Física II -  Engenharia Eléctrica -Notas_exame_ !**
-
-**Os estudantes de Engenharia Civil P/Laboral ja podem ver a pauta no Siga. Alguns estudantes nao estao inscritos e, por essa razao, nao tive onde registar os seus resultados.**
-
 
 Bons estudos!
