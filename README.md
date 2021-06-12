@@ -9,7 +9,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 **LABORAL**
 
-** 2a e 4a feira (07:30 H)**
+**2a e 4a feira (07:30 H)**
 
 Join Zoom Meeting
 https://zoom.us/j/97072517743?pwd=dk50OThkdkNHZ00yTnpocWxUaWFkdz09
