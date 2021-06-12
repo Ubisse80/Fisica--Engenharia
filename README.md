@@ -9,6 +9,8 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 **LABORAL**
 
+** 2a e 4a feira (07:30 H)**
+
 Join Zoom Meeting
 https://zoom.us/j/97072517743?pwd=dk50OThkdkNHZ00yTnpocWxUaWFkdz09
 
@@ -19,6 +21,9 @@ Passcode: 422319
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **POS-LABORAL**
+
+**2a e 4a feira (17:00 H)**
+
 
 Join Zoom Meeting
 https://zoom.us/j/94145619976?pwd=cm43K0V0ZkhtWUtFNXpHaHI4aGZ3dz09
