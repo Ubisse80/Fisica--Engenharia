@@ -4,7 +4,7 @@ Aulas para estudantes de Engenharia da Universidade Eduardo Mondlane
 Estimado estudante, este repositório foi criado para facilitar o nosso processo de ensino e aprendizagem. Assim, para que todos tiremos vantagens, é preciso que usemos este repositório de uma forma apropriada. Tiremos a informação que nos é recomendanda e nao tentemos fazer o que nao for da nossa competência.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**link para o Livro de Resnick em portugues
+**link para o Livro de Resnick em portugues**
 
 https://drive.google.com/file/d/1kiLyi9gn0LcJ2joMtUdBmQlftJp2bcQ8/view?usp=sharing
 
