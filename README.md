@@ -10,20 +10,20 @@ https://drive.google.com/file/d/1kiLyi9gn0LcJ2joMtUdBmQlftJp2bcQ8/view?usp=shari
 
 ------------------------------------------------------------------------------------------
 
-**links para  as primeiras duas sessões no ZOOM (14 e 16/06/2021)**
+**links para  as primeiras duas sessões no ZOOM **
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **LABORAL**
 
-**2a e 4a feira (07:30 H)**
+**3a feira (07:30 H)**
 
 Join Zoom Meeting
-https://zoom.us/j/97072517743?pwd=dk50OThkdkNHZ00yTnpocWxUaWFkdz09
 
-Meeting ID: 970 7251 7743
+https://zoom.us/j/96923040089?pwd=T0FzSWdPTlMrQlRRcjFIbTI2RTg3Zz09
 
-Passcode: 422319
+Meeting ID: 969 2304 0089
+Passcode: 001552
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,12 +32,7 @@ Passcode: 422319
 **2a e 4a feira (17:00 H)**
 
 
-Join Zoom Meeting
-https://zoom.us/j/94145619976?pwd=cm43K0V0ZkhtWUtFNXpHaHI4aGZ3dz09
 
-Meeting ID: 941 4561 9976
-
-Passcode: 908888
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 É importante que visitemos sempre este repositório, pois,  as fichas de exercícios serão sempre depositadas aqui.
