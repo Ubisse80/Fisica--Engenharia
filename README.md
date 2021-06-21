@@ -33,9 +33,11 @@ Passcode: 001552
 ** (17:00 H)**
 
 Pos-lab: Join Zoom Meeting
+
 https://zoom.us/j/97254377764?pwd=Ym5SR2lLU0g1aHRTaENibG5HZWhUdz09
 
 Meeting ID: 972 5437 7764
+
 Passcode: 184064
 
 
