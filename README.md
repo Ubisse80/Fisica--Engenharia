@@ -30,7 +30,7 @@ Passcode: 001552
 
 **POS-LABORAL**
 
-** (17:00 H)**
+**(17:00 H)**
 
 Pos-lab: Join Zoom Meeting
 
