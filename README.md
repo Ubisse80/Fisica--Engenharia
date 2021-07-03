@@ -12,7 +12,7 @@ Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral 
 Os trabalhos devem ser a manuscrito (Folha A4) e a caneta azul.
 Cada turma deve depositar os seus trabalhos num envelope bem identificado e entregar na Secretaria das Cadeiras Gerais.
 
-Nota: O(A) estudante que não entregar os trabalhos (cada ficha com todos os exercicios) será severamente punido(a). 
+**Nota:** O(A) estudante que não entregar os trabalhos (cada ficha com todos os exercicios) será severamente punido(a). 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
