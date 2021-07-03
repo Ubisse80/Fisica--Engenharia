@@ -14,7 +14,7 @@ Cada turma deve depositar os seus trabalhos num envelope bem identificado e entr
 
 **Nota:** O(A) estudante que não entregar os trabalhos (cada ficha com todos os exercicios) será severamente punido(a). 
 
-**Em casos de dúvidas, estarei na Faculdade na segunda-feira (11:00 - 12:30 hrs) e terça-feira (13:40 - 15:00 hrs) **
+**Em casos de dúvidas, estarei na Faculdade na segunda-feira (11:00 - 12:30 hrs) e terça-feira (13:40 - 15:00 hrs)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 É importante que visitemos sempre este repositório, pois,  as fichas de exercícios serão sempre depositadas aqui.
