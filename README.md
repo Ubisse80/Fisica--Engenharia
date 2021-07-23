@@ -7,7 +7,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 **TPC#02**
 
-Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral e p/lboral) e Eléctrica (P/laboral) devem submeter correcção do TPC#02  até Sábado, dia 31/07/2021 conforme os precedimentos plasmados no proprio TPC. 
+Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral e p/lboral) e Eléctrica (P/laboral) devem submeter a correcção do TPC#02  até Sábado, dia 31/07/2021 conforme os precedimentos plasmados no proprio TPC. 
 
 
 
