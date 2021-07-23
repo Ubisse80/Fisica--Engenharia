@@ -5,16 +5,11 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Entrega da resolução das fichas 2 e 3 até Sexta-Feira dia 09/07/2021**
+**TPC#02**
 
-Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral e p/lboral) e Eléctrica (P/laboral) que tiveram aulas de Física nesta semana de 28/06 a 03/07/2021 devem submeter as correcções das fichas 2 e 3 até sexta-feira, dia 09/07/2021. 
+Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral e p/lboral) e Eléctrica (P/laboral) devem submeter correcção do TPC#02  até Sábado, dia 31/07/2021 conforme os precedimentos plasmados no proprio TPC. 
 
-Os trabalhos devem ser a manuscrito (Folha A4) e a caneta azul.
-Cada turma deve depositar os seus trabalhos num envelope bem identificado e entregar na Secretaria das Cadeiras Gerais.
 
-**Nota:** O(A) estudante que não entregar os trabalhos (cada ficha com todos os exercicios) será severamente punido(a). 
-
-**Em casos de dúvidas, estarei na Faculdade na segunda-feira (11:00 - 12:30 hrs) e terça-feira (13:40 - 15:00 hrs)**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 É importante que visitemos sempre este repositório, pois,  as fichas de exercícios serão sempre depositadas aqui.
