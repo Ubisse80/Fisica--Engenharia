@@ -20,6 +20,11 @@ Somente os chefes poderão enviar sms informando o horário no seguinte número:
 
 Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral e p/lboral) e Eléctrica (P/laboral) devem submeter a correcção do TPC#02  até Sábado, dia 31/07/2021 conforme os precedimentos plasmados no proprio TPC. 
 
+depositem os tpcs neste link
+
+
+https://drive.google.com/drive/folders/1CX0ZG3DFutIbv29V8BqS33eqQ_9hpx_Z?usp=sharing
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
