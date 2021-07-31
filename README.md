@@ -22,8 +22,10 @@ Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral 
 
 depositem os tpcs neste link
 
-
 https://drive.google.com/drive/folders/17dDfYPtuDiYdEgxQjfoiKo8cP6BnoQHh?usp=sharing
+
+
+
 
 
 
