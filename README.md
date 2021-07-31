@@ -24,6 +24,10 @@ depositem os tpcs neste link. Arrastem os vossos ficheiros para a pasta e nao fa
 
 https://drive.google.com/drive/folders/17dDfYPtuDiYdEgxQjfoiKo8cP6BnoQHh?usp=sharing
 
+**link do google meeting**
+
+ https://meet.google.com/vrj-kpuj-tbh
+
 
 
 
