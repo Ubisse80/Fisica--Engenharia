@@ -22,6 +22,7 @@ Todos os estudantes das turmas de Civil (laboral e p/lboral), Ambiente (laboral 
 
 depositem os tpcs neste link. Arrastem os vossos ficheiros para a pasta e nao facam mais nada.
 
+
 https://drive.google.com/drive/folders/17dDfYPtuDiYdEgxQjfoiKo8cP6BnoQHh?usp=sharing
 
 **link do google meeting**
