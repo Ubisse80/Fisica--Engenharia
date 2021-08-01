@@ -35,7 +35,7 @@ Avaliei os TPC#2 e notei que os estudantes não observaram os procedimentos.
 
 2.	Toda a informação que não é da vossa autoria deve ser devidamente referenciada (Isto para a  primeira tarefa do TPC onde se esperava que o estudante fizesse leitura nos manuais e extraisse toda a informação necessária)
 
-Assim, recomendo que cada estudante volte a editar o seu TPC obecendos esses itens e  depositar, em formato de PDF, na pasta da sua turma até Sexta feira, dia 7/08/2021, 20:00 hrs.
+Assim, recomendo que cada estudante volte a editar o seu TPC obecendos esses itens e  depositar, em formato de PDF, na pasta da sua turma até Sexta feira, dia 7/08/2021, 20:00 hrs. O link da pasta de cada turma estara desponivel ate dia 05/08/2021.
 Ninguém deve enviar o trabalho para o email do professor, pois, se assim o fizer o seu trabaho será dirigido para o Spam e nao sera visto pelo destinatário. 
 
 
