@@ -38,6 +38,10 @@ Avaliei os TPC#2 e notei que os estudantes não observaram os procedimentos.
 Assim, recomendo que cada estudante volte a editar o seu TPC obecendos esses itens e  depositar, em formato de PDF, na pasta da sua turma até Sexta feira, dia 7/08/2021, 20:00 hrs. O link da pasta de cada turma estara desponivel ate dia 05/08/2021.
 Ninguém deve enviar o trabalho para o email do professor, pois, se assim o fizer o seu trabaho será dirigido para o Spam e nao sera visto pelo destinatário. 
 
+**Link para enviar o TPC#2**
+
+https://drive.google.com/drive/folders/1yphYZYiy_aBBST245zHDwnpxdWtb_lkz?usp=sharing
+
 
 
 
