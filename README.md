@@ -5,6 +5,26 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Conclusao da AP#4---------- 6Feira 13/08/2021**
+
+**Civil e Ambiente - laboral**
+
+Sexta-feira, 13 de agosto · 13:00 – 15:30
+
+Informações de participação do Google Meet
+
+Link da videochamada: https://meet.google.com/irk-qbdk-dxf
+
+**Civil e Electrica - p/laboral**
+
+Sexta-feira, 13 de agosto · 17:00 – 20:00
+
+Informações de participação do Google Meet
+
+Link da videochamada: https://meet.google.com/wot-snea-pwm
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Aulas práticas**
 
 De principio juntamos as turmas, porem, caso nao nos sentirmos confortaveis poderemos separar. Todos os estudantes deverao se esforcar respeitar a sala, estar sempre com os microfones desligados e ligar caso haja necessidade de falar sobre a aula. Comportamentos anormais nao serao tolerados!
