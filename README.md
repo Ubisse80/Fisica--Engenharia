@@ -16,16 +16,12 @@ De principio juntamos as turmas, porem, caso nao nos sentirmos confortaveis pode
 
 **2 Feira (Estes links sao fixos para todas as segundas feiras)**
 
-8:00 -  10:30	Ambiente laboral
-
-8:00 -  10:30	Civil laboral
+8:00 -  10:30	**Ambiente laboral e Civil laboral**
 
 Link da videochamada: https://meet.google.com/iym-kfmc-znn
 
 
-17:30 – 20:00	Civil p/laboral
-
-17:30 – 20:00	Eléctrica p/laboral
+17:30 – 20:30	**Civil p/laboral e Eléctrica p/laboral**
 
 Link da videochamada: https://meet.google.com/uot-nyrp-jdx
 
