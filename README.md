@@ -25,6 +25,7 @@ Link da videochamada: https://meet.google.com/iym-kfmc-znn
 
 Link da videochamada: https://meet.google.com/uot-nyrp-jdx
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 **6 Feira (Estes links sao fixos para todas as sextas feiras)**
 
