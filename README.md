@@ -32,13 +32,13 @@ Link da videochamada: https://meet.google.com/uot-nyrp-jdx
 
 **6 Feira (Estes links sao fixos para todas as sextas feiras)**
 
-13:30 -  15:30	Ambiente laboral e Civil laboral
+13:30 -  15:30	**Ambiente laboral e Civil laboral**
 
 Link da videochamada: https://meet.google.com/btb-dpkn-iad
 
 
 
-17:30 -  20:00	Civil p/laboral e Eléctrica p/laboral
+17:30 -  20:00	**Civil p/laboral e Eléctrica p/laboral**
 
 Link da videochamada: https://meet.google.com/fzg-jyzm-imm
 
