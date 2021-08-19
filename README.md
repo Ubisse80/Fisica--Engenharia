@@ -13,6 +13,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 De principio juntamos as turmas, porem, caso nao nos sentirmos confortaveis poderemos separar. Todos os estudantes deverao se esforcar respeitar a sala, estar sempre com os microfones desligados e ligar caso haja necessidade de falar sobre a aula. Comportamentos anormais nao serao tolerados!
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 **2 Feira (Estes links sao fixos para todas as segundas feiras)**
 
