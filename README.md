@@ -38,7 +38,7 @@ Link da videochamada: https://meet.google.com/btb-dpkn-iad
 
 
 
-17:30 -  20:00	**Civil p/laboral e Eléctrica p/laboral**
+17:30 -  20:30	**Civil p/laboral e Eléctrica p/laboral**
 
 Link da videochamada: https://meet.google.com/fzg-jyzm-imm
 
