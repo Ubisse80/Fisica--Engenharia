@@ -14,6 +14,7 @@ A AP#6 já está disponível!
 **Aulas práticas  na semana de 30/08/2021 a 03/09/2021**
 
 Estimados estudantes!
+
 Segundo o último informe do Chefe de Estado, voltaremos a ter aulas presenciais. Porém,temos a informação de que só será depois da semana de 30/08 a 03/09/2021 para os estudantes do 1o ano , pelo que, continuaremos a ter aulas online nesta semana. Assim, exorto a todos que participem nas aulas online e continuem resolvendo os exercicios propostos e coloquem as vossa dúvidas.
 
 
