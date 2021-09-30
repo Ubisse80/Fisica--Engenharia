@@ -20,9 +20,7 @@ De referir que esta sessão só é para estudantes das seguintes turmas:
 >Engenharia  electrica (p/laboral) 
 
 
-Consulta para o exame d Fisica-1
-
-Sábado, 2 de outubro · 09:00 – 13:00
+**link:
 
 Informações de participação do Google Meet
 
