@@ -15,9 +15,9 @@ De referir que esta sessão só é para estudantes das seguintes turmas:
 
 >Engenharia Civil (Laboral e p/laboral)
 
-*Engenharia do Ambiente(Laboral)
+>Engenharia do Ambiente(Laboral)
 
-*Engenharia  electrica (p/laboral) 
+>Engenharia  electrica (p/laboral) 
 
 
 
