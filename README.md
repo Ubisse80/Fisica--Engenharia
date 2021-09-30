@@ -20,7 +20,7 @@ De referir que esta sessão só é para estudantes das seguintes turmas:
 >Engenharia  electrica (p/laboral) 
 
 
-**link:
+*link:*
 
 Informações de participação do Google Meet
 
