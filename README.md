@@ -9,9 +9,9 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 Estimados estudantes!
 
-Tenho a informar que teremos uma sessão de consulta para a melhor preparação para o Exame de Física-1 no sábado, dia 02/10/2021 as 9:00hrs. A sessão terá a duração de 3.5hrs.
+Sessao de consulta amanha, dia 04/10/2021 as 9:00hrs.
 
-De referir que esta sessão só é para estudantes das seguintes turmas:
+De referir que esta sessão só é para estudantes admitidos ao exame das seguintes turmas:
 
 >Engenharia Civil (Laboral e p/laboral)
 
@@ -22,9 +22,7 @@ De referir que esta sessão só é para estudantes das seguintes turmas:
 
 # link:
 
-Informações de participação do Google Meet
-
-Link da videochamada: https://meet.google.com/vwd-ywhz-ftv
+Link da videochamada: https://meet.google.com/rvm-dfvm-fhg
 
 
 
