@@ -4,6 +4,12 @@ Aulas para estudantes de Engenharia da Universidade Eduardo Mondlane
 Estimado estudante, este repositório foi criado para facilitar o nosso processo de ensino e aprendizagem. Assim, para que todos tiremos vantagens, é preciso que usemos  de uma forma apropriada. Tiremos a informação que nos é recomendanda e nao tentemos fazer o que nao for da nossa competência.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+**Links para depositar o TPC-1**
+
+> Eng. Quimica: https://drive.google.com/drive/folders/1-_hoJEUoz__MmpP6hqZQ-6Ce-Q9gvaOi?usp=sharing
+
+> Eng. Electrica-PL: https://drive.google.com/drive/folders/1Mff4HReVLRBQk8dMvZsAYZWFFLKajCsR?usp=sharing
+
 
 
 
