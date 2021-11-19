@@ -5,7 +5,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Vejam os passos de resolucao da AP#3 (2021_AP #3- Resolucao.pdf)! **
+**Vejam os passos de resolucao da AP#3 (2021_AP #3- Resolucao.pdf)!**
 
 O file esta na pasta de Aulas praticas
 
