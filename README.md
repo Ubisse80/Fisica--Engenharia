@@ -3,6 +3,13 @@ Aulas para estudantes de Engenharia da Universidade Eduardo Mondlane
 
 Estimado estudante, este repositório foi criado para facilitar o nosso processo de ensino e aprendizagem. Assim, para que todos tiremos vantagens, é preciso que usemos  de uma forma apropriada. Tiremos a informação que nos é recomendanda e nao tentemos fazer o que nao for da nossa competência.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Vejam os passos de resolucao da AP#3 (2021_AP #3- Resolucao.pdf)! **
+
+O file esta na pasta de Aulas praticas
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 **Links para depositar o TPC-2**
 
