@@ -5,7 +5,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Atencao estudantes de Quimica**
+**Atenção estudantes de Quimica**
 
 É obrigatorio que entreguem o relatório da **terefa nuclear para o Laboratório de Física –II**. Nenhum estudante será aceite ao laboratório sem que tenha feito o trabalho de base.
 Para a nossa programação, os dois laboratorios serão feitos nos dias **09 e 16/12/2021**.
@@ -20,11 +20,7 @@ O file esta na pasta de Aulas praticas
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-**Links para depositar o TPC-2**
 
-> Eng. Quimica: https://drive.google.com/drive/folders/1_z9WzvHPuJ_1rfh0EJA_vumucYCMa47O?usp=sharing
-> 
-> Eng. Electrica-PL: https://drive.google.com/drive/folders/1_z9WzvHPuJ_1rfh0EJA_vumucYCMa47O?usp=sharing
 
 
 
