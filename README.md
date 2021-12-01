@@ -4,9 +4,9 @@ Aulas para estudantes de Engenharia da Universidade Eduardo Mondlane
 Estimado estudante, este repositório foi criado para facilitar o nosso processo de ensino e aprendizagem. Assim, para que todos tiremos vantagens, é preciso que usemos  de uma forma apropriada. Tiremos a informação que nos é recomendanda e nao tentemos fazer o que nao for da nossa competência.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-**Link para AP#03 online**
+**Link para AP#03 online para turmas de Eng. Quimica e Eng. Electrica P/L**
 
-Aula Pratica online. Data: 04/12/2021. Duracao:  08:00 – 10:30 Hrs
+Data: 04/12/2021. Duracao:  08:00 – 10:30 Hrs
 
 Assunto: Resolucao da AP#03- Potencial electrico
 
