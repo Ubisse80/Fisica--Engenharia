@@ -4,13 +4,11 @@ Aulas para estudantes de Engenharia da Universidade Eduardo Mondlane
 Estimado estudante, este repositório foi criado para facilitar o nosso processo de ensino e aprendizagem. Assim, para que todos tiremos vantagens, é preciso que usemos  de uma forma apropriada. Tiremos a informação que nos é recomendanda e nao tentemos fazer o que nao for da nossa competência.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-**Link para AP#05 online para turmas de Eng. Quimica e Eng. Electrica P/L**
+**Files novos!**
 
-Data: 11/12/2021. Duracao:  08:00 – 10:30 Hrs
+A resolucao de **AP#5** com estudantes ja esta no repositorio.
 
-Assunto: Resolucao da AP#05
-
-Link da videochamada: https://meet.google.com/rkq-nphv-bee
+Em resposta a solicitação manifestada por alguns estudantes, a aula sobre como escrever documentos no **Latex** ja está na pasta onde tem o material sobre o **Python**
 
 
 **Atenção estudantes de Quimica**
