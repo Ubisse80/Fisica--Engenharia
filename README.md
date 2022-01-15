@@ -6,7 +6,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Files novos!**
 
-Ja anexei o script para matrizes. O script esta em PDF e esta onde tem documentos sobre **Instalacao de Python**
+Ja anexei o script para matrizes. O script esta em PDF e esta na pasta **Instalacao de Python**
 
 
 
