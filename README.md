@@ -21,6 +21,7 @@ Assim, para o cumprimento dos primeiros três itens, o docente da aula prática 
 
 > Quinta-feira (12:50 – 17:00hrs) – 3o Mini-teste, introdução da AP#7 e realização da experiência sobre o estudo e  medição com o osciloscópio.
 
+> Sexta-feira (08:00 – 16:00hrs) – Finalização e discussão de todos os trabalhos laboratoriais. Divulgação dos resultados do laboratório.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
