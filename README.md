@@ -17,7 +17,7 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-
+**Enunciados do teste 1 para todas as turmas ja estao disponiveis neste repositorio !**
 
 
 
