@@ -6,11 +6,9 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Atenção estudantes de Eng. Química e Eng. Electrica (PL)!**
 
-> **Aula online:** Data: 24/01/2022   Hora: 18:30 - 20:30 hrs
+A aula de hoje fica para 4feira 
 
-> **Tema:** Conclusao da resolucao de AP#7: Campo Magnetico
 
-> **Link da videochamada:** https://meet.google.com/ujk-rmdn-qrb
 
 
 
