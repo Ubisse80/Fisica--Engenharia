@@ -8,3 +8,9 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 
 Bons estudos!
+
+_________________________________________________________________________________________________________________________________
+
+**Atenção estudantes de Eng. Informática**
+
+> A aula teórica #2 já está no repositório, na pasta de aulas teóricas.
