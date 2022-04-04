@@ -13,4 +13,7 @@ ________________________________________________________________________________
 
 **Atenção estudantes de Eng. Informática**
 
-> A aula teórica #2 já está no repositório, na pasta de aulas teóricas.
+
+> A aula teórica \#2 já está no repositório, na pasta de aulas teóricas.
+
+> AP#2: Cinematica de um ponto material \& Dinamica de uma particula, esta disponivel na pasta **2022 - Fisica - Aulas Praticas - Eng_Informatica**
