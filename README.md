@@ -11,9 +11,9 @@ Bons estudos!
 
 _________________________________________________________________________________________________________________________________
 
-**Atenção estudantes de Eng. Informática**
+**Aula online para hoje (22/4/2022  19:00 - 21:00 hrs)- Engenharia informatica - laboral**
 
 
-> A aula teórica \#2 já está no repositório, na pasta de aulas teóricas.
+**Tema**: AP#3: Trabalho e Energia - Resolucao com estudantes
 
-> AP#2: Cinematica de um ponto material \& Dinamica de uma particula, esta disponivel na pasta **2022 - Fisica - Aulas Praticas - Eng_Informatica**
+> Link da videochamada: https://meet.google.com/ybu-afio-wbe
