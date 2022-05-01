@@ -9,6 +9,19 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 Bons estudos!
 
+________________________________________________________________________________________________________________________
+
+**links para a deposicao de TPCs**
+
+Cada estudante deve cliclar no link correspondente a sua turma. Depois arraste o seu ficheiro para a pasta e largue. Não faça mais nada, pois o trabalho já está adicionado na pasta. 
+
+**Nota:** Aquele que tentar modificar a pasta será punido, o sistema regista a pessoa que faz modificações.
+Os links não serão acessados depois das **12:00 hrs**.
+
+
+> Laboral: https://drive.google.com/drive/folders/1BGOMCb-8PK85XAxLgrnppZyXWFwZ_6rF?usp=sharing
+
+> Pos-Laboral: https://drive.google.com/drive/folders/1v_xRa_xjV4dYq00ZJg4AUIpQ85dRlR5t?usp=sharing
 _________________________________________________________________________________________________________________________________
 
 
