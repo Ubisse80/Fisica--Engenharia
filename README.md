@@ -10,6 +10,9 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 Bons estudos!
 
 ________________________________________________________________________________________________________________________
+**Salas para a realização de Teste-1 de Fisica : 07/05/2022**
+
+> Turmas do Laboral
 
 	Turma	                   Sala
 	
