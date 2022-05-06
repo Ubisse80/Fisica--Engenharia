@@ -12,7 +12,7 @@ Bons estudos!
 ________________________________________________________________________________________________________________________
 **Salas para a realização de Teste-1 de Fisica : 07/05/2022**
 
-> Turmas do Laboral
+> **Turmas do Laboral** Hora: 08:00 - 10:00 hrs
 
 	Turma	                   Sala
 	
@@ -30,6 +30,22 @@ ________________________________________________________________________________
 
 07	Eng. Do  Ambiente	   123
 
+
+> **Turmas do Pos-Laboral** Hora: 10:15 - 12:15 hrs
+
+	Turma	                   Sala
+	
+01	Eng. Electrónica	   202
+
+02	Eng. Informática	   109
+
+03	Eng. Eléctrica	           202
+
+04	Eng. Civil	           119
+
+05	Eng. G.Industrial	   123
+
+06	Eng. Do  Ambiente	   124
 ___________________________________________________________________________________________________________________________
 
 
