@@ -10,48 +10,8 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 Bons estudos!
 
 ________________________________________________________________________________________________________________________
-**Salas para a realização de Teste-1 de Fisica : 07/05/2022**
 
-> **Turmas do Laboral** Hora: 08:00 - 10:00 hrs
-
-	Turma	                   Sala
-	
-01	Eng. Electrónica	   202
-
-02	Eng. Informática	   109
-
-03	Eng. Eléctrica	           202
-
-04	Eng. Química	           124
-
-05	Eng. Civil	           104
-
-06	Eng. Mecânica	           119
-
-07	Eng. Do  Ambiente	   123
-
-
-> **Turmas do Pos-Laboral** Hora: 10:15 - 12:15 hrs
-
-	Turma	                   Sala
-	
-01	Eng. Electrónica	   202
-
-02	Eng. Informática	   109
-
-03	Eng. Eléctrica	           202
-
-04	Eng. Civil	           119
-
-05	Eng. G.Industrial	   123
-
-06	Eng. Do  Ambiente	   124
 ___________________________________________________________________________________________________________________________
 
 
-**Atenção estudantes de Engenharia Informática**
 
-
-> No sabado do dia **07/05/2022**, teremos o primeiro teste (Teste-1) , e a matéria a ser avaliada é de todas as fichas que já receberam, incluindo o Trabalho-1. Assim, apela-se a todos os estudantes a resolver todos os exercicios já disponibilizados, incluindo os exemplos das aulas teóricas.
-
-Votos de bom trabalho e sucessos!
