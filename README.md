@@ -11,13 +11,14 @@ Bons estudos!
 
 ________________________________________________________________________________________________________________________
 
-**AT#7 - Corrente  electrica continua & Resistencia electrica**
+**AT#8 - Forca electromotriz. Tecnicas de analise de circuitos electricos**
 
-> Data: 18/05/2022    Hora: 12:45 – 14:45 hrs
+> Data: 23/05/2022    Hora: 11:45 – 14:00 hrs
 
-> link: https://meet.google.com/kgy-iwwu-tct
+> link: https://meet.google.com/meb-nsnx-eej
 
-________________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
 
 
 
