@@ -9,6 +9,13 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 Bons estudos!
 
+____________________________________________________________________________________________________________
+
+**Atenção estudantes de Eng. Informatica!**
+
+> A AP#6 já está disponível!
+
+
 ________________________________________________________________________________________________________________________
 
 **AT#8 - Forca electromotriz. Tecnicas de analise de circuitos electricos**
