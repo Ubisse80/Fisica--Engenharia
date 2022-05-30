@@ -9,6 +9,12 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 Bons estudos!
 
+_______________________________________________________________________________________________________
+
+** link para baixar livros**
+
+> http://gen.lib.rus.ec/
+
 ____________________________________________________________________________________________________________
 
 **Atenção estudantes de Eng. Informatica!**
