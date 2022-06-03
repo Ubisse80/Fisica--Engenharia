@@ -9,6 +9,14 @@ Estimado estudante, este repositório foi criado para facilitar o nosso processo
 
 Bons estudos!
 
+______________________________________________
+
+**AT# Campo Magnetico**
+
+> Data 03/06/2022       Hora: 19:00 – 21:00
+
+> Link: https://meet.google.com/dbc-wkzh-bmq
+
 _______________________________________________________________________________________________________
 
 **link para baixar livros**
