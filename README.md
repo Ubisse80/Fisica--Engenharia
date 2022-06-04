@@ -11,11 +11,10 @@ Bons estudos!
 
 ______________________________________________
 
-**AT# Campo Magnetico**
+**Atenção estudantes de Eng. Informática !**
 
-> Data 03/06/2022       Hora: 19:00 – 21:00
+> A tarefa#2 já está disponível (na pasta de aulas praticas) !
 
-> Link: https://meet.google.com/dbc-wkzh-bmq
 
 _______________________________________________________________________________________________________
 
