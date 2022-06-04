@@ -13,7 +13,7 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-> A tarefa#2 já está disponível (na pasta de aulas praticas) !
+> A trabalho#2 já está disponível (na pasta de aulas praticas) !
 
 
 _______________________________________________________________________________________________________
