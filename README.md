@@ -13,7 +13,11 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-> A trabalho#2 já está disponível (na pasta de aulas praticas) !
+**Aula online   Data: 10/06/2022     Hora: 19:30 - 21:00 Hrs**
+
+> Link: https://meet.google.com/oeq-dfuy-rmh
+
+
 
 
 _______________________________________________________________________________________________________
