@@ -13,9 +13,10 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-**Aula online   Data: 20/06/2022     Hora: 11:45 – 13:45 Hrs**
+**Aula online   Data: 20/06/2022     Hora: 17:05 – 19:05 Hrs**
 
-> Link: https://meet.google.com/dxk-uskb-avf
+> Link : https://meet.google.com/ske-zyxe-rno
+
 
 _______________________________________________________________________________________________________
 
