@@ -13,12 +13,9 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-**Aula online   Data: 10/06/2022     Hora: 19:30 - 21:00 Hrs**
+**Aula online   Data: 20/06/2022     Hora: 11:45 – 13:45 Hrs**
 
-> Link: https://meet.google.com/oeq-dfuy-rmh
-
-
-
+> Link: https://meet.google.com/dxk-uskb-avf
 
 _______________________________________________________________________________________________________
 
