@@ -13,9 +13,10 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-**Aula online   Data: 20/06/2022     Hora: 17:05 – 19:05 Hrs**
+O Trabalho #3 já está disponível na pasta de Aulas práticas.  A sua entrega está marcada para terça-feira, dia 28/06/2022 pelas 12 horas na Secretaria das Cadeiras Gerais da FENG. Os chefes das turmas devem recolher os trabalhos , meter num envelope e entregar na Secretaria.
 
-> Link : https://meet.google.com/ske-zyxe-rno
+**Nota:** Aquele(a) que o trabalho dele(a) não estiver no envelope, não terá a classificação referente ao Trabalho#3.
+
 
 
 _______________________________________________________________________________________________________
