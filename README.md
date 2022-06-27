@@ -17,7 +17,12 @@ O Trabalho #3 já está disponível na pasta de Aulas práticas.  A sua entrega 
 
 **Nota:** Aquele(a) que o trabalho dele(a) não estiver no envelope, não terá a classificação referente ao Trabalho#3.
 
+____________________________________________________________________________
+**Aula online |Data: 27/06/22 | Hora 10:00 - 11:30 hrs**
 
+> Tema: Ondas Electromagnetica no vazio
+
+> Link: https://meet.google.com/wkm-nxyo-ice
 
 _______________________________________________________________________________________________________
 
