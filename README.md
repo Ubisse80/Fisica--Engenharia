@@ -13,16 +13,10 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-O Trabalho #3 já está disponível na pasta de Aulas práticas.  A sua entrega está marcada para terça-feira, dia 28/06/2022 pelas 12 horas na Secretaria das Cadeiras Gerais da FENG. Os chefes das turmas devem recolher os trabalhos , meter num envelope e entregar na Secretaria.
+Verifiquei que o SIGA não calculou as notas de frequência e ném deu as respectivas observações. Assim, para o vosso conhecimento, coloquei as pautas com notas de frequências na plataforma. Porvafor, informar os outros colegas que por certas razões não terão recebido esta informação a tempo.
 
-**Nota:** Aquele(a) que o trabalho dele(a) não estiver no envelope, não terá a classificação referente ao Trabalho#3.
+Votos de um bom trabalho e sucessos nos exames!
 
-____________________________________________________________________________
-**Aula online |Data: 27/06/22 | Hora 10:00 - 11:30 hrs**
-
-> Tema: Ondas Electromagnetica no vazio
-
-> Link: https://meet.google.com/wkm-nxyo-ice
 
 _______________________________________________________________________________________________________
 
