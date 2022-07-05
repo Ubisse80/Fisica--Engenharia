@@ -13,7 +13,7 @@ ______________________________________________
 
 **Atenção estudantes de Eng. Informática !**
 
-Verifiquei que o SIGA não calculou as notas de frequência e ném deu as respectivas observações. Assim, para o vosso conhecimento, coloquei as pautas com notas de frequências na plataforma. Porvafor, informar os outros colegas que por certas razões não terão recebido esta informação a tempo.
+Verifiquei que o SIGA não calculou as notas de frequência e ném deu as respectivas observações. Assim, para o vosso conhecimento, coloquei as pautas com notas de frequências na plataforma. Porfavor, informar os outros colegas que por certas razões não terão recebido esta informação a tempo.
 
 Votos de um bom trabalho e sucessos nos exames!
 
